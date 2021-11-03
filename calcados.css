@@ -1,0 +1,42 @@
+* main{
+    background-color: rgb(255, 136, 209);
+}
+main #produtos .sapatoalto{
+    display: flex;
+    justify-content: center;
+}
+
+
+main #produtos .sapatoalto img {
+    justify-content: center;
+    margin-top: 50px;
+    width: 45%;
+    height: 50%;
+    border-radius: 70px;
+    border: outset;
+    border-color: #000000;
+}
+
+main .descricaosalto {
+    margin-top: -300px;
+    margin-right: 70%;
+    text-align: center;
+    color: #000000;
+    flex-direction: column;
+
+}
+
+main .coress {
+    
+    margin-left: 10%;
+}
+
+main  .valorsalto {
+    margin-top: auto;
+    margin-left: -70%;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+  
+}
+
